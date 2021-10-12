@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Ldgwhv8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/koiralasasbit/Twitter/blob/main/twitterPart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 This Twitter Part I is a basic twitter app to read your tweets.
